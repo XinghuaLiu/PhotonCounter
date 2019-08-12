@@ -1,0 +1,10 @@
+
+
+C:/Users/xinghua/Dropbox (Radiation Detection)/Zheltikov Group/Weak measurement/PhotoDetect_FPGA/PhotoDetect_FPGA/FPGA/RTL/pll/pll.v
+
+Aug 07 11AM:06:06>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/xinghua/Dropbox (Radiation Detection)/Zheltikov Group/Weak measurement/PhotoDetect_FPGA/PhotoDetect_FPGA/FPGA/RTL/pll/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
